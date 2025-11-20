@@ -1,0 +1,5 @@
+mtcnn
+facenet-pytorch
+opencv-python
+numpy
+torch
